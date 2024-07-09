@@ -1,0 +1,33 @@
+{
+  "title": "Sonic IDW Comics",
+  "description": "A collection of Sonic the Hedgehog comics published by IDW",
+  "artist": "Various",
+  "author": "Various",
+  "cover": "https://imgur.com/123456.png",
+  "chapters": {
+    "01": {
+      "title": "Sonic the Hedgehog #1",
+      "volume": "1",
+      "last_updated": "1720567033",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/dT5jraZ"
+      }
+    },
+    "02": {
+      "title": "Sonic the Hedgehog #2",
+      "volume": "1",
+      "last_updated": "1720567072",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/4lZXZhd"
+      }
+    },
+    "03": {
+      "title": "Sonic the Hedgehog #3",
+      "volume": "1",
+      "last_updated": "1720567130",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/oyTEUrf"
+      }
+    }
+  }
+}
