@@ -3,12 +3,340 @@
   "description": "A collection of Sonic the Hedgehog comics published by IDW",
   "artist": "Various",
   "author": "Various",
-  "cover": "https://imgur.com/123456.png",
+  "cover": "https://imgur.com/AwCMBcg.png",
   "chapters": {
+    "10": {
+      "title": "Sonic the Hedgehog #10",
+      "volume": "1",
+      "last_updated": "1720965643",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/2JwOhMb"
+      }
+    },
+    "11": {
+      "title": "Sonic the Hedgehog #11",
+      "volume": "1",
+      "last_updated": "1720965643",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/4FprHhY"
+      }
+    },
+    "12": {
+      "title": "Sonic the Hedgehog #12",
+      "volume": "1",
+      "last_updated": "1720965643",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/OcNCyvP"
+      }
+    },
+    "13": {
+      "title": "Sonic the Hedgehog - Annual 2019",
+      "volume": "1",
+      "last_updated": "1720965643",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/bLTCNDr"
+      }
+    },
+    "14": {
+      "title": "Sonic the Hedgehog #13",
+      "volume": "1",
+      "last_updated": "1720965644",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/MuNzGlE"
+      }
+    },
+    "15": {
+      "title": "Sonic the Hedgehog #14",
+      "volume": "1",
+      "last_updated": "1720965644",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/tytd4K5"
+      }
+    },
+    "16": {
+      "title": "Sonic the Hedgehog #15",
+      "volume": "1",
+      "last_updated": "1720965644",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/yWAtLqZ"
+      }
+    },
+    "17": {
+      "title": "Sonic the Hedgehog #16",
+      "volume": "1",
+      "last_updated": "1720965645",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/7ADFxpc"
+      }
+    },
+    "18": {
+      "title": "Sonic the Hedgehog - Tangle & Whisper #1",
+      "volume": "1",
+      "last_updated": "1720965645",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/lpANzLC"
+      }
+    },
+    "19": {
+      "title": "Sonic the Hedgehog - Tangle & Whisper #2",
+      "volume": "1",
+      "last_updated": "1720965645",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/al0lJcf"
+      }
+    },
+    "20": {
+      "title": "Sonic the Hedgehog - Tangle & Whisper #3",
+      "volume": "1",
+      "last_updated": "1720965645",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/9SGyY1O"
+      }
+    },
+    "21": {
+      "title": "Sonic the Hedgehog - Tangle & Whisper #4",
+      "volume": "1",
+      "last_updated": "1720965646",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/FqLYeUL"
+      }
+    },
+    "22": {
+      "title": "Sonic the Hedgehog #17",
+      "volume": "1",
+      "last_updated": "1720965646",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/u0w5CLM"
+      }
+    },
+    "23": {
+      "title": "Sonic the Hedgehog #18",
+      "volume": "1",
+      "last_updated": "1720965646",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Bu3hB1h"
+      }
+    },
+    "24": {
+      "title": "Sonic the Hedgehog #19",
+      "volume": "1",
+      "last_updated": "1720965646",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/4vbWdiu"
+      }
+    },
+    "25": {
+      "title": "Sonic the Hedgehog #20",
+      "volume": "1",
+      "last_updated": "1720965647",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/VdT3xDK"
+      }
+    },
+    "26": {
+      "title": "Sonic the Hedgehog #21",
+      "volume": "1",
+      "last_updated": "1720965647",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/5kz45A1"
+      }
+    },
+    "27": {
+      "title": "Sonic the Hedgehog #22",
+      "volume": "1",
+      "last_updated": "1720965647",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/DsCzEVq"
+      }
+    },
+    "28": {
+      "title": "Sonic the Hedgehog #23",
+      "volume": "1",
+      "last_updated": "1720965648",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/RpFSHcF"
+      }
+    },
+    "29": {
+      "title": "Sonic the Hedgehog #24",
+      "volume": "1",
+      "last_updated": "1720965648",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/tlbsurU"
+      }
+    },
+    "30": {
+      "title": "Sonic the Hedgehog - Annual 2020",
+      "volume": "1",
+      "last_updated": "1720965648",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/5lV3mLf"
+      }
+    },
+    "31": {
+      "title": "Sonic the Hedgehog #25",
+      "volume": "1",
+      "last_updated": "1720965648",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/tKD5wgG"
+      }
+    },
+    "32": {
+      "title": "Sonic the Hedgehog #26",
+      "volume": "1",
+      "last_updated": "1720965649",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/fbzpn8i"
+      }
+    },
+    "33": {
+      "title": "Sonic the Hedgehog #27",
+      "volume": "1",
+      "last_updated": "1720965649",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/pewXipf"
+      }
+    },
+    "34": {
+      "title": "Sonic the Hedgehog #28",
+      "volume": "1",
+      "last_updated": "1720965649",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/9PyHRZE"
+      }
+    },
+    "35": {
+      "title": "Sonic the Hedgehog #29",
+      "volume": "1",
+      "last_updated": "1720965649",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/qNvOiYg"
+      }
+    },
+    "36": {
+      "title": "Sonic the Hedgehog #30",
+      "volume": "1",
+      "last_updated": "1720965650",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/yJzSrWw"
+      }
+    },
+    "37": {
+      "title": "Sonic the Hedgehog #31",
+      "volume": "1",
+      "last_updated": "1720965650",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/c454k69"
+      }
+    },
+    "38": {
+      "title": "Sonic the Hedgehog #32",
+      "volume": "1",
+      "last_updated": "1720965650",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/1PbRQAE"
+      }
+    },
+    "39": {
+      "title": "Sonic the Hedgehog - Bad Guys #1",
+      "volume": "1",
+      "last_updated": "1720965651",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/18lRyW5"
+      }
+    },
+    "40": {
+      "title": "Sonic the Hedgehog - Bad Guys #2",
+      "volume": "1",
+      "last_updated": "1720965651",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/hke08h7"
+      }
+    },
+    "41": {
+      "title": "Sonic the Hedgehog - Bad Guys #3",
+      "volume": "1",
+      "last_updated": "1720965651",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/tiCefbt"
+      }
+    },
+    "42": {
+      "title": "Sonic the Hedgehog - Bad Guys #4",
+      "volume": "1",
+      "last_updated": "1720965651",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/1oqfKQk"
+      }
+    },
+    "43": {
+      "title": "Sonic the Hedgehog #33",
+      "volume": "1",
+      "last_updated": "1720965652",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/PCzEjb0"
+      }
+    },
+    "44": {
+      "title": "Sonic the Hedgehog #34",
+      "volume": "1",
+      "last_updated": "1720965652",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Ar8j1FU"
+      }
+    },
+    "45": {
+      "title": "Sonic the Hedgehog #35",
+      "volume": "1",
+      "last_updated": "1720965652",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/tBtvT87"
+      }
+    },
+    "46": {
+      "title": "Sonic the Hedgehog #36",
+      "volume": "1",
+      "last_updated": "1720965652",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/lUVklyX"
+      }
+    },
+    "47": {
+      "title": "Sonic the Hedgehog #37",
+      "volume": "1",
+      "last_updated": "1720965653",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/AKemmtL"
+      }
+    },
+    "48": {
+      "title": "Sonic the Hedgehog #38",
+      "volume": "1",
+      "last_updated": "1720965653",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/LqDiz2L"
+      }
+    },
+    "49": {
+      "title": "Sonic the Hedgehog #39",
+      "volume": "1",
+      "last_updated": "1720965653",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/fo69S7T"
+      }
+    },
+    "50": {
+      "title": "Sonic the Hedgehog #40",
+      "volume": "1",
+      "last_updated": "1720965654",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/hwJgiER"
+      }
+    },
     "01": {
       "title": "Sonic the Hedgehog #1",
       "volume": "1",
-      "last_updated": "1720567033",
+      "last_updated": "1720965640",
       "groups": {
         "": "/proxy/api/imgur/chapter/dT5jraZ"
       }
@@ -16,17 +344,65 @@
     "02": {
       "title": "Sonic the Hedgehog #2",
       "volume": "1",
-      "last_updated": "1720567072",
+      "last_updated": "1720965640",
       "groups": {
-        "": "/proxy/api/imgur/chapter/4lZXZhd"
+        "": "/proxy/api/imgur/chapter/aXvCPCY"
       }
     },
     "03": {
       "title": "Sonic the Hedgehog #3",
       "volume": "1",
-      "last_updated": "1720567130",
+      "last_updated": "1720965641",
       "groups": {
-        "": "/proxy/api/imgur/chapter/oyTEUrf"
+        "": "/proxy/api/imgur/chapter/QoDbjnv"
+      }
+    },
+    "04": {
+      "title": "Sonic the Hedgehog #4",
+      "volume": "1",
+      "last_updated": "1720965641",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jA2kf2Y"
+      }
+    },
+    "05": {
+      "title": "Sonic the Hedgehog #5",
+      "volume": "1",
+      "last_updated": "1720965641",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/PyOxAWT"
+      }
+    },
+    "06": {
+      "title": "Sonic the Hedgehog #6",
+      "volume": "1",
+      "last_updated": "1720965642",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/3wjwBvS"
+      }
+    },
+    "07": {
+      "title": "Sonic the Hedgehog #7",
+      "volume": "1",
+      "last_updated": "1720965642",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/hSSbIB5"
+      }
+    },
+    "08": {
+      "title": "Sonic the Hedgehog #8",
+      "volume": "1",
+      "last_updated": "1720965642",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/0rDup4S"
+      }
+    },
+    "09": {
+      "title": "Sonic the Hedgehog #9",
+      "volume": "1",
+      "last_updated": "1720965642",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Ler5hWD"
       }
     }
   }
